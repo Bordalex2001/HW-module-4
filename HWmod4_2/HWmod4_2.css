@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+dl{
+    width: 1000px;
+    margin: 20px;
+    color: #fff;
+    display: block;
+}
+dt{
+    background: #41635b;
+    padding: 10px 60px;
+    text-transform: uppercase;
+}
+dd{
+    padding: 15px 30px;
+    margin-bottom: 20px;
+    background: #5c8c81;
+}
+.footnote{
+    color: #da9999;
+}
+.footnoteText{
+    margin: 30px 20px -15px;
+}

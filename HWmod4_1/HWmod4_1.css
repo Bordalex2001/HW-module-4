@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ol{
+    background: #f499bc;
+    margin: 25px;
+    padding: 10px;
+    width: 600px;
+}
+li{
+    background: #d16f88;
+    color: #fff;
+    margin: 15px;
+    padding: 10px;
+    list-style-position: inside;
+    
+}
+li .text{
+    background: #9d4667;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 20px;
+}
